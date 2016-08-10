@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_bootloader.png",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/drawable-ldpi/ic_bootloader.png"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/drawable-ldpi/ic_launcher.png"
+    }
+]

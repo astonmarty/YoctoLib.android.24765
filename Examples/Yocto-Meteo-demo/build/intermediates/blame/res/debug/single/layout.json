@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/build/intermediates/res/merged/debug/layout/live_view.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/res/layout/live_view.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/build/intermediates/res/merged/debug/layout/agraph_view.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Meteo-demo/res/layout/agraph_view.xml"
+    }
+]

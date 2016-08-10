@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:2:1-35:12
+	xmlns:android
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:3:5-49
+	android:versionName
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yoctopuce.android:YoctoLib:1.10.24765] /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/build/intermediates/exploded-aar/com.yoctopuce.android/YoctoLib/1.10.24765/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:13:5-33:19
+MERGED from [com.yoctopuce.android:YoctoLib:1.10.24765] /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/build/intermediates/exploded-aar/com.yoctopuce.android/YoctoLib/1.10.24765/AndroidManifest.xml:11:5-53
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:15:9-44
+	android:theme
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:17:9-40
+activity#com.yoctopuce.examples.yocto_relay.RelayListActivity
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:19:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:24:27-74
+service#com.yoctopuce.examples.yocto_relay.YoctoService
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:27:3-43
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:27:12-40
+receiver#com.yoctopuce.examples.yocto_relay.PebbleInterface$WatchReceiver
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:28:9-32:20
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:28:19-98
+intent-filter#com.getpebble.action.app.RECEIVE
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:29:13-31:29
+action#com.getpebble.action.app.RECEIVE
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:30:17-75
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Relay/AndroidManifest.xml:30:25-72

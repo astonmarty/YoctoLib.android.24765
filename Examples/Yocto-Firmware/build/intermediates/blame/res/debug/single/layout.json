@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/layout/activity_do_update.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/layout/activity_do_update.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/layout/fragment_list.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/layout/fragment_list.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/layout/list_item_updatable.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/layout/list_item_updatable.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/layout/dialog_confirm_update.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/layout/dialog_confirm_update.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/build/intermediates/res/merged/debug/layout/activity_firmware_update.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Firmware/res/layout/activity_firmware_update.xml"
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="1470834157184220000"
+    token="-640542203126078444" >
+
+    <task
+        name="javac"
+        duration="738" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1519" />
+    <task
+        name="verifier"
+        duration="146" />
+
+    <artifact
+        location="/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/outputs/apk/Doc-Examples-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1470834157184220000" >
+        <artifact
+            location="/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/outputs/apk/Doc-Examples-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

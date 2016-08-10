@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="error">#ff82271f</color>
+    <color name="lightGray">#ff808080</color>
+    <color name="success">#ff09910f</color>
+    <color name="warning">#ffd8941c</color>
+    <declare-styleable name="ButtonBarContainerTheme"><attr format="reference" name="metaButtonBarStyle"/><attr format="reference" name="metaButtonBarButtonStyle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="paragraph_text_size">16sp</dimen>
+    <string name="about">About</string>
+    <string name="about_text">
+        If you have trouble with %1$s application please contact  &lt;a href="mailto:support@yoctopuce.com">support@yoctopuce.com&lt;/a>&lt;br>&lt;br>
+        Application version: %2$s&lt;br>
+        Yoctopuce API : %3$s&lt;br>&lt;br>
+        &lt;a href="http://www.yoctopuce.com">www.yoctopuce.com&lt;/a>
+    </string>
+    <string name="app_name">Yocto-Firmware</string>
+    <string name="cancel">Cancel</string>
+    <string name="checking">checking…</string>
+    <string name="continue_button">Continue</string>
+    <string name="dialog_confirm_update_text">You are about to update the firmware of %1$s with the firmware revision %2$s. All settings of %1$s will be preserved.</string>
+    <string name="dialog_confirm_update_text2">During firmware update the USB device will reboot multiples times, and Android will pop up a dialogue to allow the allow %1$s to access USB devices. <b>You need to authorise %1$s to access USB device</b> otherwise the firmware update will finish correctly and you may lost your settings.</string>
+    <string name="dialog_confirm_update_text3">Also, if you have other applications that have register access to Yoctopuce devices, Android may ask you if you want to start these other activity. <b> you need to deny USB accept to all application except %1$s</b>.</string>
+    <string name="dialog_confirm_update_text4">Please do not power off your Android device, or exit the application during the firmware update.</string>
+    <string name="do_not_exit">Do not exit the application!</string>
+    <string name="error">Error</string>
+    <string name="firmware_description">Need to update to %1$s</string>
+    <string name="force_update">Force update</string>
+    <string name="icon2d">Icon2d</string>
+    <string name="module_description">%1$s %2$s</string>
+    <string name="plug_a_module">Plug a Yoctopuce module to your USB port</string>
+    <string name="title_activity_check_firmware">Check Firmware</string>
+    <string name="title_activity_do_update">DoUpdateActivity</string>
+    <string name="title_activity_firmware_update">Firmware Update</string>
+    <string name="title_activity_usbdevice_plugged">USBDevicePluggedActivity</string>
+    <string name="title_dialog_confirm_update">Update Firmware of %1$s</string>
+    <string name="title_dialog_no_need_update">Already up to date</string>
+    <string name="up_to_date">Up to date</string>
+    <string name="update">Update</string>
+    <string name="update_firmware">Updating Firmware</string>
+    <string name="update_success">Firmware has been successfully updated</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="FullscreenTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="about_text">
+        If you have trouble with %1$s application please contact  &lt;a href="mailto:support@yoctopuce.com">support@yoctopuce.com&lt;/a>&lt;br>&lt;br>
+        Application version: %2$s&lt;br>&lt;br>
+        Yoctopuce API : %3$s&lt;br>&lt;br>
+        &lt;a href="http://www.yoctopuce.com">www.yoctopuce.com&lt;/a>
+    </string>
+    <string name="app_name">Yocto-Meteo</string>
+    <string name="humunit">Rh</string>
+    <string name="presunit">hPa</string>
+    <string name="tempunit">°C</string>
+    <string name="title_activity_main">Yocto-Meteo</string>
+    <string name="unplugged">Unplugged!</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

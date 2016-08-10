@@ -1,0 +1,391 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:2:1-500:12
+	xmlns:android
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:4:5-63
+	package
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:3:5-41
+	android:versionName
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:8:5-10:40
+MERGED from [com.yoctopuce.android:YoctoLib:1.10.24765] /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/exploded-aar/com.yoctopuce.android/YoctoLib/1.10.24765/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:9:9-35
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+		INJECTED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml
+uses-feature#android.hardware.usb.host
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:12:5-61
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:12:19-59
+uses-permission#android.permission.INTERNET
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:14:22-64
+application
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:16:5-498:19
+MERGED from [com.yoctopuce.android:YoctoLib:1.10.24765] /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/exploded-aar/com.yoctopuce.android/YoctoLib/1.10.24765/AndroidManifest.xml:11:5-53
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:19:9-40
+activity#com.yoctopuce.doc_examples.Doc_Examples
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:23:13-64
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:22:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:28:27-74
+activity#com.yoctopuce.doc_examples.USBDevicePluggedActivity
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:31:9-42:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:32:13-53
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:35:13-37:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:36:17-89
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:36:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:39:13-41:56
+	android:resource
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:41:17-54
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:40:17-79
+activity#com.yoctopuce.doc_examples.HubListActivity
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:43:9-49:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:44:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:46:13-48:74
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:47:17-63
+	android:value
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:48:17-72
+activity#com.yoctopuce.doc_examples.ProgEventBasedActivity
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:50:9-56:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:52:13-44
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:51:13-51
+activity#com.yoctopuce.doc_examples.ProgModbus
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:57:9-63:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:59:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:58:13-39
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_SPI
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:66:9-72:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:68:13-38
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:67:13-53
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_MaxiThermistor
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:75:9-81:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:77:13-49
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:76:13-64
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_4_20mA_Tx
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:84:9-90:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:86:13-44
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:85:13-59
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Light_V3
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:93:9-99:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:95:13-43
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:94:13-58
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Thermistor_C
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:102:9-108:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:104:13-47
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:103:13-62
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_RS485
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:111:9-117:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:113:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:112:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Serial
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:120:9-126:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:122:13-41
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:121:13-56
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_GPS
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:129:9-135:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:131:13-38
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:130:13-53
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_RS232
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:138:9-144:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:140:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:139:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Buzzer
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:147:9-153:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:149:13-41
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:148:13-56
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_MaxiPowerRelay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:156:9-162:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:158:13-49
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:157:13-64
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_WatchdogDC
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:165:9-171:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:167:13-45
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:166:13-60
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_PWM_Rx
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:174:9-180:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:176:13-41
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:175:13-56
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_milliVolt_Rx_BNC
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:183:9-189:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:185:13-51
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:184:13-66
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_milliVolt_Rx
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:192:9-198:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:194:13-47
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:193:13-62
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Motor_DC
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:201:9-207:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:203:13-43
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:202:13-58
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Altimeter
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:210:9-216:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:212:13-44
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:211:13-59
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_PWM_Tx
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:219:9-225:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:221:13-41
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:220:13-56
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_3D
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:228:9-234:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:230:13-37
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:229:13-52
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_0_10V_Rx
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:237:9-243:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:239:13-43
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:238:13-58
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_4_20mA_Rx
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:246:9-252:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:248:13-44
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:247:13-59
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_PT100
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:255:9-261:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:257:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:256:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Maxi_IO
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:264:9-270:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:266:13-42
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:265:13-57
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_LatchedRelay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:273:9-279:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:275:13-47
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:274:13-62
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_MaxiCoupler
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:282:9-288:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:284:13-46
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:283:13-61
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_MaxiDisplay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:291:9-297:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:293:13-46
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:292:13-61
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_MiniDisplay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:300:9-306:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:302:13-46
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:301:13-61
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Display
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:309:9-315:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:311:13-42
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:310:13-57
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Watt
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:318:9-324:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:320:13-39
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:319:13-54
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Amp
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:327:9-333:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:329:13-38
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:328:13-53
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_CO2
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:336:9-342:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:338:13-38
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:337:13-53
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Knob
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:345:9-351:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:347:13-39
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:346:13-54
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Color
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:354:9-360:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:356:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:355:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_PowerColor
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:363:9-369:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:365:13-45
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:364:13-60
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Light
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:372:9-378:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:374:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:373:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Meteo
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:381:9-387:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:383:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:382:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Relay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:390:9-396:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:392:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:391:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_MaxiRelay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:399:9-405:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:401:13-44
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:400:13-59
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_PowerRelay
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:408:9-414:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:410:13-45
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:409:13-60
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Servo
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:417:9-423:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:419:13-40
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:418:13-55
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Temperature
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:426:9-432:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:428:13-46
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:427:13-61
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Thermocouple
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:435:9-441:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:437:13-47
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:436:13-62
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_VOC
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:444:9-450:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:446:13-38
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:445:13-53
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Volt
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:453:9-459:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:455:13-39
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:454:13-54
+activity#com.yoctopuce.doc_examples.GettingStarted_Yocto_Demo
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:462:9-468:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:464:13-39
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:463:13-54
+activity#com.yoctopuce.doc_examples.SaveSettings
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:471:9-477:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:473:13-41
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:472:13-41
+activity#com.yoctopuce.doc_examples.ModuleControl
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:480:9-486:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:482:13-42
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:481:13-42
+activity#com.yoctopuce.doc_examples.Inventory
+ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:489:9-495:20
+	android:label
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:491:13-38
+	android:name
+		ADDED from /Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/AndroidManifest.xml:490:13-38

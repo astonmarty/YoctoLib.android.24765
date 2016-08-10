@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_maxipowerrelay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_maxipowerrelay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_millivolt_rx_bnc.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_millivolt_rx_bnc.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_3d.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_3d.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/prog_modbus.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/prog_modbus.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_light.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_light.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_altimeter.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_altimeter.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_millivolt_rx.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_millivolt_rx.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_4_20ma_tx.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_4_20ma_tx.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_thermistor_c.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_thermistor_c.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_minidisplay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_minidisplay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_color.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_color.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_maxithermistor.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_maxithermistor.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_powercolor.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_powercolor.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_knob.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_knob.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_meteo.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_meteo.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_rs232.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_rs232.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_voc.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_voc.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_0_10v_rx.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_0_10v_rx.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_watchdogdc.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_watchdogdc.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/inventory.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/inventory.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_watt.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_watt.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/savesettings.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/savesettings.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_maxidisplay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_maxidisplay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_thermocouple.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_thermocouple.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_temperature.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_temperature.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_pwm_tx.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_pwm_tx.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/modulecontrol.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/modulecontrol.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_display.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_display.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_maxi_io.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_maxi_io.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_servo.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_servo.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_spi.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_spi.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_motor_dc.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_motor_dc.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_maxicoupler.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_maxicoupler.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_pt100.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_pt100.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_maxirelay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_maxirelay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_powerrelay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_powerrelay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/activity_doc_examples.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/activity_doc_examples.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_rs485.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_rs485.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_relay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_relay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_amp.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_amp.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_gps.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_gps.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_volt.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_volt.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_latchedrelay.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_latchedrelay.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_4_20ma_rx.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_4_20ma_rx.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_buzzer.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_buzzer.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_demo.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_demo.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_serial.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_serial.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_light_v3.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_light_v3.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_pwm_rx.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_pwm_rx.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/build/intermediates/res/merged/debug/layout/gettingstarted_yocto_co2.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Doc-Examples/res/layout/gettingstarted_yocto_co2.xml"
+    }
+]

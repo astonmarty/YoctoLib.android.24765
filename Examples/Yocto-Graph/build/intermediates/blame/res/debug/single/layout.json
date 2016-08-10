@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/build/intermediates/res/merged/debug/layout/activity_fragment.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/res/layout/activity_fragment.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/build/intermediates/res/merged/debug/layout/graph_list_fragment.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/res/layout/graph_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/build/intermediates/res/merged/debug/layout/graph_list_item.xml",
+        "source": "/Users/martyfaivre/Desktop/YoctoLib.android.24765/Examples/Yocto-Graph/res/layout/graph_list_item.xml"
+    }
+]
